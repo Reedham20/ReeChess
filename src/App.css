@@ -40,6 +40,10 @@
     width: 12.5%;
     height: 12.5%;
 }
+.promote-square {
+    width: 50%;
+    height: 50%;
+}
 
 .square-black {
     background-color: rgb(106, 68, 58);
@@ -54,6 +58,9 @@
     height: 100%;
 }
 
+.cursor-pointer{
+    cursor: pointer;
+}
 .piece-container{
     cursor: grab;
     width: 100%;
